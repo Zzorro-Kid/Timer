@@ -1,0 +1,3 @@
+/home/gleb/CLionProjects/Timer/cmake-build-debug/CMakeFiles/timer.dir
+/home/gleb/CLionProjects/Timer/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/gleb/CLionProjects/Timer/cmake-build-debug/CMakeFiles/rebuild_cache.dir
