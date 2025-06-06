@@ -31,14 +31,14 @@ Depending on what OS you are running, **Clone or download** this repository to y
    **If you use Linux**
      
      1. git clone https://github.com/Zzorro-Kid/Timer.git
-     2. Go to **Downloads** directory
-     3. Go to **Timer** folder
+     2. Go to Downloads
+     3. Go to Timer 
      4. Run: `run_timer.sh`
      
    **If you use Windows**
    
      1. Download project archive 
-     2. Go to **Downloads** folder 
+     2. Go to Downloads  
      3. Unzip Timer archive to a folder or location convenient for you
-     4. Go to **Timer** folder 
+     4. Go to Timer  
      5. Run: `timer.exe`
